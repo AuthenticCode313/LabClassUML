@@ -10,13 +10,13 @@ namespace LabClassUML
         private string _school;
         private double _pay;
 
-        public string School
+        private string School
         {
             get { return this._school; }
             set { this._school = value; }
         }
 
-        public double Pay
+        private double Pay
         {
             get { return this._pay; }
             set { this._pay = value; }
