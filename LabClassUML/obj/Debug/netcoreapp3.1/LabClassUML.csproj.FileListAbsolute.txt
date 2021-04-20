@@ -1,0 +1,13 @@
+C:\Users\12482\source\repos\LabClassUML\LabClassUML\bin\Debug\netcoreapp3.1\LabClassUML.exe
+C:\Users\12482\source\repos\LabClassUML\LabClassUML\bin\Debug\netcoreapp3.1\LabClassUML.deps.json
+C:\Users\12482\source\repos\LabClassUML\LabClassUML\bin\Debug\netcoreapp3.1\LabClassUML.runtimeconfig.json
+C:\Users\12482\source\repos\LabClassUML\LabClassUML\bin\Debug\netcoreapp3.1\LabClassUML.runtimeconfig.dev.json
+C:\Users\12482\source\repos\LabClassUML\LabClassUML\bin\Debug\netcoreapp3.1\LabClassUML.dll
+C:\Users\12482\source\repos\LabClassUML\LabClassUML\bin\Debug\netcoreapp3.1\LabClassUML.pdb
+C:\Users\12482\source\repos\LabClassUML\LabClassUML\obj\Debug\netcoreapp3.1\LabClassUML.csprojAssemblyReference.cache
+C:\Users\12482\source\repos\LabClassUML\LabClassUML\obj\Debug\netcoreapp3.1\LabClassUML.AssemblyInfoInputs.cache
+C:\Users\12482\source\repos\LabClassUML\LabClassUML\obj\Debug\netcoreapp3.1\LabClassUML.AssemblyInfo.cs
+C:\Users\12482\source\repos\LabClassUML\LabClassUML\obj\Debug\netcoreapp3.1\LabClassUML.csproj.CoreCompileInputs.cache
+C:\Users\12482\source\repos\LabClassUML\LabClassUML\obj\Debug\netcoreapp3.1\LabClassUML.dll
+C:\Users\12482\source\repos\LabClassUML\LabClassUML\obj\Debug\netcoreapp3.1\LabClassUML.pdb
+C:\Users\12482\source\repos\LabClassUML\LabClassUML\obj\Debug\netcoreapp3.1\LabClassUML.genruntimeconfig.cache
